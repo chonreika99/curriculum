@@ -1,0 +1,55 @@
+@media screen and (max-width: 479px){
+
+    /* header */
+    .bg-red{
+        margin-right: 70px;
+    }
+    .header{
+        width: 200px ;
+        height: 200px;
+    }
+    .header-left{
+        margin-top: 10px;
+        margin-bottom: 0 ;
+    }
+    .header-center{
+        margin: 0 70px;
+    }
+    .header-right{
+        margin-bottom: 10px ;
+        margin-top: 0;
+    }
+    /* contents */
+    .contents{
+        width: 200px;
+        height: 310px;
+    }
+
+    /* left */
+    .left{
+        width: 200px ;
+        height: 100px;
+        float: none;
+    }
+    /* right */
+    .right{
+        width: 200px ;
+        height: 210px;
+    }
+    .bg-orange{
+        margin-left: 30px;
+    }
+    .right-upper{
+        margin-top: 20px;
+    }
+    .right-lower{
+        margin-bottom: 20px;
+    }
+    /* footer */
+    .footer{
+        width: 200px;
+    }
+    
+
+
+}

@@ -25,13 +25,7 @@
     .footer{
         width: 300px ;
     }
-    .wrapper{
-        max-width: 767px;
-        margin: 0 auto;
-
-    }
-    
-  }
+}
 
 @media screen and (max-width:479px) {
 
@@ -66,8 +60,5 @@
     .footer{
         width: 150px;
     }    
-    .wrapper{
-        max-width: 479px;
-        margin: 0 ;
-    }
+  
 }
